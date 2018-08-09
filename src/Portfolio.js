@@ -26,7 +26,7 @@ class Portfolio extends Component {
               Until August 2017, I worked in social media for various magazines: Parents, Good Housekeeping, Prevention, and more. I left my position as head of social media at Rodale to attend the Grace Hopper Program, a 17-week immersive software engineering course for women. Read more about <a href="https://medium.com/@aprilrueb/career-change-from-editor-to-software-engineer-6b67bae4d5bc" target="blank">my career change</a>.
             </p>
             <p>
-              I'm currently an analytics solutions engineer for MaassMedia, a Hero Digital company. My days involve a lot of Google Analytics, Google Tag Manager, Adobe Analytics, Dynamic Tag Management, and, of course, JavaScript. I work remotely in NYC, making frequent trips to the Philadelphia office.
+              I'm currently a data science engineer for MaassMedia, a Hero Digital company. My days involve a lot of Google Analytics, Google Tag Manager, Adobe Analytics, Dynamic Tag Management, and, of course, JavaScript. I work remotely in NYC, making frequent trips to the Philadelphia office.
             </p>
             <p>
               When I'm not coding, you can find me running, crafting, or scrolling through Instagram.
